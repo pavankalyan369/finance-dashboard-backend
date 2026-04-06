@@ -1,0 +1,3 @@
+INSERT INTO roles (name)
+VALUES ('CUSTOMER'), ('ANALYST'), ('ADMIN')
+    ON CONFLICT (name) DO NOTHING;
