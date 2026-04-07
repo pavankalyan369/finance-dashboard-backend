@@ -31,8 +31,6 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: pavankalyan.pk150@gmail.com
-    password: yfde jvnn hfhd weui
 
     properties:
       mail:
